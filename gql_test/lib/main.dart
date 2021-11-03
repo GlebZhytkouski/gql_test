@@ -5,8 +5,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  final gqlEndpoint = "https://zephyr-mobile-test.ca.dev.chr-zephyr.dev/external-api/graphql";
-
   const MyApp({Key? key}) : super(key: key);
 
   @override
