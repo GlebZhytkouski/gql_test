@@ -5,7 +5,7 @@ query readAccounts {
       node {
         id
         city
-        public
+        name
       }
     }
   }
